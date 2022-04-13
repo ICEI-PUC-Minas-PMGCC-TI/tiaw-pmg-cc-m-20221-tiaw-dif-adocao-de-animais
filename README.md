@@ -4,12 +4,12 @@ O objetivo do nosso produto é fazer umas ponte entre as pessoas que têm um ani
 
 ## Alunos integrantes da equipe
 
-° Arthur Vinícius Reis Rodrigues
-° Barbara Maria Sampaio Portes
-° Gabriel Vitorio Goncalves
-° Leonardo Yukio Macedo Kamei
-° Samuel Parreiras de Souza
-° Theo Xavier Lopes
+* Arthur Vinícius Reis Rodrigues
+* Barbara Maria Sampaio Portes
+* Gabriel Vitorio Goncalves
+* Leonardo Yukio Macedo Kamei
+* Samuel Parreiras de Souza
+* Theo Xavier Lopes
 
 ## Professores responsáveis
 
