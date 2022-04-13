@@ -1,18 +1,20 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7624094&assignment_repo_type=AssignmentRepo)
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# Pet Match
+O objetivo do nosso produto é fazer umas ponte entre as pessoas que têm um animal para adoção e uma pessoa que quer adotar, assim como, conscientizar sobre a adoção responsável de animais.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+° Arthur Vinícius Reis Rodrigues
+° Barbara Maria Sampaio Portes
+° Gabriel Vitorio Goncalves
+° Leonardo Yukio Macedo Kamei
+° Samuel Parreiras de Souza
+° Theo Xavier Lopes
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Brother
+* Mina
 
 ## Instruções de utilização
 
