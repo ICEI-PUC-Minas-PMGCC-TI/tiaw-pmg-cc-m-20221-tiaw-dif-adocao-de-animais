@@ -99,9 +99,9 @@ Nosso principal objetivo é fazer uma ponte entre as pessoas que tem um animal p
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](imaages/../images/persona1.jng)
-> ![Exemplo de Persona](imaages/../images/persona2.jng)
-> ![Exemplo de Persona](imaages/../images/persona3.jng)
+> ![Exemplo de Persona](images/persona1.jng)
+> ![Exemplo de Persona](images/persona2.jng)
+> ![Exemplo de Persona](images/persona3.jng)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
