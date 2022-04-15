@@ -78,12 +78,12 @@ Nosso principal objetivo é fazer uma ponte entre as pessoas que tem um animal p
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > **Exemplo de Persona**
 > 
 > ![Exemplo de Persona](images/persona1.jpg)
+> 
 > ![Exemplo de Persona](images/persona2.jpg)
+> 
 > ![Exemplo de Persona](images/persona3.jpg)
 
 ## Histórias de Usuários
