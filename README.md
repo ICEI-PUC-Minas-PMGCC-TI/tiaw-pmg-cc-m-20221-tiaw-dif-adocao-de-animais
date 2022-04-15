@@ -13,8 +13,8 @@ O objetivo do nosso produto é fazer umas ponte entre as pessoas que têm um ani
 
 ## Professores responsáveis
 
-* Brother
-* Mina
+* João Carlos Oliveira Caetano
+* Fernanda Farinelli
 
 ## Instruções de utilização
 
