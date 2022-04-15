@@ -61,20 +61,19 @@ nesse meio, como pessoas envolvidas com ONG's de resgate e adoção de animais e
 interessadas em adotar um animal. O problema maior é a falta de interação e comunicação entre essas
 pessoas e as ONG's, nosso objetivo é fazer uma ponte entre essas pessoas.
 
-## Objetivos
-## Justificativa
-## Público-Alvo
-## Especificações do Projeto
+## Objetivos, Justificativa, Público-Alvo e Especificações do Projeto
 
 Nosso problema é muito auto explicativo, “Dificuldade na Adoção de Animais”, se você já quis adotar um animal você muito provavelmente sabe das dificuldade que existem, como:
 - Achar algum lugar fácil para isso;
 - Saber um pouco mais sobre o animal antes da adoção, como histórico de saúde e características comportamentais do animal;
 - Ter mais opções de pets.
+
 E se você já tentou colocar algum animal para adoção sabe como é uma tarefa difícil,
 - Ter um lugar para anunciar e divulgar a adoção;
 - Conscientizar as pessoas sobre a responsabilidade;
 - Saber se a pessoa que está adotando é confiável;
 - Competir com a venda de animais.
+
 Nosso principal objetivo é fazer uma ponte entre as pessoas que tem um animal para adoção com as pessoas que querem adotar um pet, assim como conscientizar as pessoas sobre a adoção responsável de animais. Nosso público alvo são as ONGs de resgate e adoção de animais e pessoas interessadas em doar ou adotar animais domésticos.
 
 ## Personas e Mapas de Empatia
@@ -197,22 +196,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
-
+> ![Exemplo de UserFlow](images/userflow.png)
 
 ## Wireframes
 
