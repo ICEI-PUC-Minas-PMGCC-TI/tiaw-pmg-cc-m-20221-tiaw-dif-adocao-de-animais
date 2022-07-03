@@ -1,0 +1,186 @@
+
+html,
+body {
+  margin: 0;
+  background-color: #fdd8c4;
+}
+
+a {
+   color: #cf7e4f;
+}
+
+a:link {
+ text-decoration: none;
+
+}
+
+a:hover {
+ color:#773418; 
+}
+
+
+.carousel {
+  --current-slide: 0;
+  /* we set position relative so absolute position works properly for the buttons */
+  position: relative;
+  overflow: hidden;
+}
+
+.carousel-button {
+  /* vertically centering the buttons */
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+
+  /* basic styling */
+  padding: 0;
+  margin: 0.5rem;
+  border-radius: 50%;
+  background-color: transparent;
+  border: none;
+
+  font-size: 1.5rem;
+  cursor: pointer;
+
+  transition: color 0.1s;
+}
+
+.carousel-button:hover {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel-button_next {
+  /* The "next slide button" will be at the right */
+  right: 0;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s;
+  transform: translateX(calc(-100% * var(--current-slide)));
+}
+
+.slide {
+  flex: 0 0 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .carousel-button {
+    font-size: 2rem;
+    margin: 1rem;
+  }
+}
+
+/* ----- */
+
+.content {
+  
+  margin: auto;
+  padding: 5rem;
+
+   max-width:350px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+
+  background-size: cover;
+  background-position: center;
+
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.content-1 {
+  background-image: url(imagens/dog.png);
+}
+
+.content-2 {
+  background-image: url(imagens/garo.png);
+}
+
+.content-3 {
+  background-image: url(imagens/passaro.png);
+}
+
+.text-container {
+  max-width: 50ch;
+  padding: 1.5rem;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.logo p{
+    display:inline;
+    position: absolute;
+    vertical-align: middle;
+    font-size: 35px;
+    margin: 10px;
+    font-family:Courier New, fantasy, cursive, Helvetica;
+    color:#0c0d0e;
+}
+
+
+
+.main_area img{
+    width: 600px;
+    height: 350px;
+    margin: 10px;
+    align-content: center;
+  
+}
+
+
+.perfil_area{
+    align-content: center;
+
+}
+.botao-categoria{
+    align-content: right;
+}
+.projetos_area{
+    padding: 10px;
+    padding-left: 10px;
+  font-family:Courier New, fantasy, cursive, Helvetica;
+}
+.footer{
+    font-size: 15px;
+    font-family:Courier New, fantasy, cursive, Helvetica;
+    background: #cf7e4f;
+    color: #0c0d0e;
+}
+.footer_area{
+    padding: 20px;
+    text-align: center;
+  
+}
+
+.main .card{
+    margin-bottom: 10px;
+  text-align: center;
+  font-family:Courier New, fantasy, cursive, Helvetica;
+}
+.main .card img{
+    padding: 10px;
+}
+.main .card iframe{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.cards-experiência{
+    padding: 10px;
+    padding-left: 10px;
+}
+
+
+@media screen and (max-width:600px){
+    .projetos_area{
+        padding-left: 20px;
+    }
+}
+
+    main {
+      margin-top: 40px;
+    }
+
+ 
+ 

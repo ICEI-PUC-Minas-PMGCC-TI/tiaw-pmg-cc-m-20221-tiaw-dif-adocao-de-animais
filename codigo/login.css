@@ -1,0 +1,160 @@
+html,
+body {
+  margin: 0;
+  background-color: #fdd8c4;
+}
+.barra {
+    background-color: #cf7e4f;
+}
+
+.logo p{
+    display:inline;
+    position: absolute;
+    vertical-align: middle;
+    font-size: 35px;
+    margin: 10px;
+    font-family:Courier New, fantasy, cursive, Helvetica;
+    color:#0c0d0e;
+}
+
+a:link {
+    transition: all 0.3s ease; /*Aplicamos um efeito de transição*/
+    text-decoration: none; /*Removemos o sublinhado*/
+    
+    font-family:Courier New, fantasy, cursive, Helvetica;
+  }
+
+a:hover {
+ color: black;
+}
+
+.main_area img{
+    width: 600px;
+    height: 350px;
+    margin: 10px;
+    align-content: center;
+}
+
+
+.perfil_area{
+    align-content: center;
+}
+.botao-categoria{
+    align-content: right;
+}
+.projetos_area{
+    padding: 10px;
+    padding-left: 10px;
+  font-family:Courier New, fantasy, cursive, Helvetica;
+}
+.footer{
+  width:100%;
+    font-size: 15px;
+    font-family:Courier New, fantasy, cursive, Helvetica;
+    background: #cf7e4f;
+    color: #0c0d0e;
+}
+.footer_area{
+    padding: 20px;
+    text-align: center;
+}
+
+.main .card{
+    margin-bottom: 10px;
+  text-align: center;
+  font-family:Courier New, fantasy, cursive, Helvetica;
+}
+.main .card img{
+    padding: 10px;
+}
+.main .card iframe{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.cards-experiência{
+    padding: 10px;
+    padding-left: 10px;
+}
+
+
+@media screen and (max-width:600px){
+    .projetos_area{
+        padding-left: 20px;
+    }
+}
+
+    main {
+      margin-top: 40px;
+    }
+
+.area_login{  
+  font-family:Courier New, fantasy, cursive, Helvetica;
+  align-content: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 83vh;
+  
+}
+
+.login
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #cf7e4f;
+    border-radius: 10px;
+    width: 355px;
+    height: 320px;
+    padding: 35px;
+}
+.login form
+{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.login input
+{
+    margin-top: 10px;
+    background-color: grey;
+    padding-left: 10px;
+    color: black;
+    border: none;
+    height: 45px;
+    outline: none;
+    border-radius: 8px;
+}
+
+.login img
+{
+    width: 55px;
+    height: inherit;
+}
+
+
+input::placeholder
+{
+    color: #cbd0f7;
+    font-size: 14px;
+}
+
+form [type="submit"]
+{
+    display: block;
+    background-color:#5568fe ;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+p {
+color:#cbd0f7;
+}
+
+ a{
+     color: #5568fe;
+     text-decoration: none;
+     margin-left: 10px;
+ }

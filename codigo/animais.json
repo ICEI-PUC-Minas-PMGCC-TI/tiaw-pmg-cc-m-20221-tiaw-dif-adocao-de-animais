@@ -1,0 +1,12 @@
+{"animais":[
+        {
+            "id":1,
+            "especie":"cachorro",
+            "nome":"Didico",
+            "cidade":"BH",
+            "idade": 1,
+            "raça":"Dachshund",
+            "vacinas": true
+        }  
+    ]
+}

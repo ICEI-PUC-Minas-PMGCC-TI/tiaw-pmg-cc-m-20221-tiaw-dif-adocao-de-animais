@@ -1,0 +1,52 @@
+html,
+body {
+  margin: 0;
+  background-color: #fdd8c4;
+  font-family:Courier New, fantasy, cursive, Helvetica;
+}
+.barra {
+    background-color: #6e87a0;
+}
+
+.logo p{
+    display:inline;
+    position: absolute;
+    vertical-align: middle;
+    font-size: 35px;
+    margin: 10px;
+    font-family:Courier New, fantasy, cursive, Helvetica;
+    color:#0c0d0e;
+}
+
+#findpet {
+  text-align: center;
+}
+
+#button {
+  vertical-align: center;
+  
+}
+
+#result1, #result2 {
+  text-align: center;
+  vertical-align: center;
+  margin-top: 25px;
+  margin-left: 300px;
+  margin-right:300px;
+  
+}
+
+.footer{
+  width:100%;
+    font-size: 15px;
+    font-family:Courier New, fantasy, cursive, Helvetica;
+    background: #cf7e4f;
+    color: #0c0d0e;
+  text-align: center;
+}
+
+.footer_area{
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}
